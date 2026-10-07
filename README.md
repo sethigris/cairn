@@ -18,6 +18,8 @@ It provides:
 ## Windows 10
 
 ```powershell
+python cairn.py --version
+python cairn.py --help or -h
 python cairn.py init
 python cairn.py snapshot --note "baseline"
 python cairn.py verify
